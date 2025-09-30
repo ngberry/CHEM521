@@ -1,0 +1,14 @@
+name: chem521
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - rdkit
+  - ipywidgets
+  - ipykernel
+  - shap
+  - tensorflow
